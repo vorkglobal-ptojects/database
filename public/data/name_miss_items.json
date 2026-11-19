@@ -1,0 +1,538 @@
+[
+  {
+    "source": "Name Miss Register",
+    "date": "2019-06-08",
+    "name": "R.D. Shriyani Ramyalatha",
+    "loan": 290000.0,
+    "notes": "2024/9/18 Redeem",
+    "raw": "2019.06.08\tR.D. Shriyani Ramyalatha \t  \t    290,000/= 2024/9/18 Redeem"
+  },
+  {
+    "source": "Name Miss Register",
+    "date": "2019-06-19",
+    "name": "M.A. ranjula Dilhani",
+    "loan": 450000.0,
+    "notes": "",
+    "raw": "2019.06.19\tM.A. ranjula Dilhani \t\t\t    450,000/="
+  },
+  {
+    "source": "Name Miss Register",
+    "date": "2019-07-20",
+    "name": "H.K.D Rathanapala Jayasinghe",
+    "loan": 2000000.0,
+    "notes": "",
+    "raw": "2019.07.20\tH.K.D Rathanapala Jayasinghe    \t2,000,000/="
+  },
+  {
+    "source": "Name Miss Register",
+    "date": "2019-07-25",
+    "name": "W.R.P  Fernando",
+    "loan": 1500000.0,
+    "notes": "",
+    "raw": "2019.07.25\tW.R.P  Fernando \t\t\t1,500,000/="
+  },
+  {
+    "source": "Name Miss Register",
+    "date": "2019-08-02",
+    "name": "S.A.P nandani Senadeera",
+    "loan": 700000.0,
+    "notes": "2023/08/03 New Loan",
+    "raw": "2019.08.02\tS.A.P nandani Senadeera\t   \t   700,000/=  2023/08/03 New Loan"
+  },
+  {
+    "source": "Name Miss Register",
+    "date": "2019-10-16",
+    "name": "K.K Thushani Samanthika",
+    "loan": 600000.0,
+    "notes": "2024/12/24 Redeem",
+    "raw": "2019.10.16\tK.K Thushani Samanthika      \t    \t   600,000/= 2024/12/24 Redeem"
+  },
+  {
+    "source": "Name Miss Register",
+    "date": "2019-11-13",
+    "name": "W.D.P Wellalage",
+    "loan": 550000.0,
+    "notes": "",
+    "raw": "2019.11.13\tW.D.P Wellalage \t\t    \t   550,000/="
+  },
+  {
+    "source": "Name Miss Register",
+    "date": "2019-11-14",
+    "name": "W.M. Kamalawathi",
+    "loan": 140000.0,
+    "notes": "",
+    "raw": "2019.11.14\tW.M. Kamalawathi \t\t     \t  140,000/="
+  },
+  {
+    "source": "Name Miss Register",
+    "date": "2019-11-19",
+    "name": "P.H.H Tharanga Dewappriya",
+    "loan": 700000.0,
+    "notes": "2023/07/11 New Loan",
+    "raw": "2019.11.19\tP.H.H Tharanga Dewappriya \t         \t 700,000/=      2023/07/11 New Loan"
+  },
+  {
+    "source": "Name Miss Register",
+    "date": "2020-1-11",
+    "name": "Welai Francies",
+    "loan": 350000.0,
+    "notes": "2024/6/15 Redeem",
+    "raw": "2020.1.11\tWelai Francies \t\t\t  \t  350,000/=     2024/6/15 Redeem"
+  },
+  {
+    "source": "Name Miss Register",
+    "date": "2020-02- 01",
+    "name": "N.H.A Sajeewaka Darshana",
+    "loan": 950000.0,
+    "notes": "",
+    "raw": "2020.02. 01\tN.H.A Sajeewaka Darshana            \t 950,000/="
+  },
+  {
+    "source": "Name Miss Register",
+    "date": "2020-02-13",
+    "name": "D.D.R. Chinthaka Gamlath",
+    "loan": 777000.0,
+    "notes": "2023/12/21 NEW Hemantha wijesingha",
+    "raw": "2020.02.13\tD.D.R. Chinthaka Gamlath \t   \t 777,000/=  2023/12/21 NEW Hemantha wijesingha"
+  },
+  {
+    "source": "Name Miss Register",
+    "date": "20-02-13",
+    "name": "W.A.D.L Janaka Rukmal",
+    "loan": 600000.0,
+    "notes": "",
+    "raw": "20.02.13\tW.A.D.L Janaka Rukmal \t\t  600,000/="
+  },
+  {
+    "source": "Name Miss Register",
+    "date": "2020-02-22",
+    "name": "W.P.A Kapila Premarathne",
+    "loan": 1000000.0,
+    "notes": "",
+    "raw": "2020.02.22\tW.P.A Kapila Premarathne \t\t1,000,000/="
+  },
+  {
+    "source": "Name Miss Register",
+    "date": "2020-03-02",
+    "name": "A.B. Nayana Chandani",
+    "loan": 800000.0,
+    "notes": "2024/8/9 New Loan",
+    "raw": "2020.03.02\tA.B. Nayana Chandani \t\t \t800,000/=    2024/8/9 New Loan"
+  },
+  {
+    "source": "Name Miss Register",
+    "date": "20-03-11",
+    "name": "H.W.D.S Chaminda Werasinghe",
+    "loan": 250000.0,
+    "notes": "",
+    "raw": "20.03.11\tH.W.D.S Chaminda Werasinghe  \t 250,000/="
+  },
+  {
+    "source": "Name Miss Register",
+    "date": "2020-06-26",
+    "name": "W.M.M Earanda Perera",
+    "loan": 800000.0,
+    "notes": "",
+    "raw": "2020.06.26\tW.M.M Earanda Perera  \t\t800,000/="
+  },
+  {
+    "source": "Name Miss Register",
+    "date": "2020-09-17",
+    "name": "M.C. Kumari Madagedara",
+    "loan": 100000.0,
+    "notes": "2023/08/17 REDEEM",
+    "raw": "2020.09.17\tM.C. Kumari Madagedara \t\t100,000/=  2023/08/17 REDEEM"
+  },
+  {
+    "source": "Name Miss Register",
+    "date": "2020-10-03",
+    "name": "A. Chandani  Garusinghe",
+    "loan": 250000.0,
+    "notes": "2023/07/11 New Loan",
+    "raw": "2020.10.03\tA. Chandani  Garusinghe \t\t250,000/=    2023/07/11 New Loan"
+  },
+  {
+    "source": "Name Miss Register",
+    "date": "2021-01-05",
+    "name": "M.A Mahinda Kumara",
+    "loan": 200000.0,
+    "notes": "2024/6/15 New Loan",
+    "raw": "2021.01.05\tM.A Mahinda Kumara \t\t\t200,000/=    2024/6/15 New Loan"
+  },
+  {
+    "source": "Name Miss Register",
+    "date": "2021-02-17",
+    "name": "A.D. Lilani Karunakumari",
+    "loan": 1760000.0,
+    "notes": "2023/08/05 New Loan",
+    "raw": "2021.02.17\tA.D. Lilani Karunakumari \t\t1,760,000/=\t 2023/08/05 New Loan"
+  },
+  {
+    "source": "Name Miss Register",
+    "date": "2021-03-18",
+    "name": "G.M  Indrani Perera",
+    "loan": 500000.0,
+    "notes": "2025/01/06 Redeem",
+    "raw": "2021.03.18\tG.M  Indrani Perera \t\t\t500,000/= 2025/01/06 Redeem"
+  },
+  {
+    "source": "Name Miss Register",
+    "date": "2021-03-23",
+    "name": "Shantha Paranamannage",
+    "loan": 400000.0,
+    "notes": "",
+    "raw": "2021.03.23\tShantha Paranamannage \t\t400,000/="
+  },
+  {
+    "source": "Name Miss Register",
+    "date": "2021-04-10",
+    "name": "M.C. Padmaseeli Perera",
+    "loan": 300000.0,
+    "notes": "",
+    "raw": "2021.04.10\tM.C. Padmaseeli Perera \t\t300,000/="
+  },
+  {
+    "source": "Name Miss Register",
+    "date": "2021-7-26",
+    "name": "H.A.S.Dedunu Dilhani",
+    "loan": 350000.0,
+    "notes": "2024.03.06 New Loan",
+    "raw": "2021.7.26\tH.A.S.Dedunu Dilhani\t350000/= \t2024.03.06 New Loan"
+  },
+  {
+    "source": "Name Miss Register",
+    "date": "2021-08-07",
+    "name": "B. Sarath Sadaruwan",
+    "loan": 500000.0,
+    "notes": "2023/08/05 New Loan",
+    "raw": "2021.08.07\tB. Sarath Sadaruwan \t\t\t500,000/= 2023/08/05 New Loan"
+  },
+  {
+    "source": "Name Miss Register",
+    "date": "2021-10-30",
+    "name": "A.D  Wajirani veenetha",
+    "loan": 800000.0,
+    "notes": "",
+    "raw": "2021.10.30\tA.D  Wajirani veenetha \t\t800,000/="
+  },
+  {
+    "source": "Name Miss Register",
+    "date": "2022-01-06",
+    "name": "M. K .Nuwan Chamara",
+    "loan": 400000.0,
+    "notes": "",
+    "raw": "2022.01.06\tM. K .Nuwan Chamara \t\t\t400,000/="
+  },
+  {
+    "source": "Name Miss Register",
+    "date": "2022-02-15",
+    "name": "Ananda Nandasiri",
+    "loan": 400000.0,
+    "notes": "2023/08/03 REDEEM",
+    "raw": "2022.02.15\tAnanda Nandasiri \t\t\t400,000/= 2023/08/03 REDEEM"
+  },
+  {
+    "source": "Name Miss Register",
+    "date": "2022-02-15",
+    "name": "R.A. Nilani",
+    "loan": 4200000.0,
+    "notes": "",
+    "raw": "2022.02.15\tR.A. Nilani \t\t       \t\t4,200,000/="
+  },
+  {
+    "source": "Name Miss Register",
+    "date": "2022-04-01",
+    "name": "G.W.Yasarathne",
+    "loan": 500000.0,
+    "notes": "Redeem 2023.12.30",
+    "raw": "2022.04.01\tG.W.Yasarathne \t\t\t500,000/= Redeem 2023.12.30"
+  },
+  {
+    "source": "Name Miss Register",
+    "date": "2022-04-01",
+    "name": "Meddawitage malini",
+    "loan": 700000.0,
+    "notes": "2023/07/26 REDEEM",
+    "raw": "2022.04.01\tMeddawitage malini \t\t\t700,000/=  2023/07/26 REDEEM"
+  },
+  {
+    "source": "Name Miss Register",
+    "date": "2022-04-02",
+    "name": "A. Manoj Kumara",
+    "loan": 550000.0,
+    "notes": "2024/6/08 New Loan",
+    "raw": "2022.04.02\tA. Manoj Kumara \t\t\t550,000/=  2024/6/08 New Loan"
+  },
+  {
+    "source": "Name Miss Register",
+    "date": "2022-04-11",
+    "name": "W.A. Miththadewa Senananda",
+    "loan": 3000000.0,
+    "notes": "2024/11/11Redeem",
+    "raw": "2022.04.11\tW.A. Miththadewa Senananda   \t 3,000,000/= 2024/11/11Redeem"
+  },
+  {
+    "source": "Name Miss Register",
+    "date": "2022-06-17",
+    "name": "Madumali C. Aththanayake",
+    "loan": 1000000.0,
+    "notes": "",
+    "raw": "2022.06.17\tMadumali C. Aththanayake \t\t1,000,000/="
+  },
+  {
+    "source": "Name Miss Register",
+    "date": "2022-08-01",
+    "name": "Upul Shantha",
+    "loan": 150000.0,
+    "notes": "REDEEM 2023.03.07",
+    "raw": "2022.08.01\tUpul Shantha \t\t\t   \t150,000/=  REDEEM 2023.03.07"
+  },
+  {
+    "source": "Name Miss Register",
+    "date": "2022-08-01",
+    "name": "H.A. Rohini",
+    "loan": 500000.0,
+    "notes": "Redeem 2024.02.26",
+    "raw": "2022.08.01\tH.A. Rohini  \t\t\t \t 500,000/=  Redeem 2024.02.26"
+  },
+  {
+    "source": "Name Miss Register",
+    "date": "2022-08-19         I-K-M- Imtikhan",
+    "name": "400,000/=",
+    "loan": 0.0,
+    "notes": "",
+    "raw": "2022.08.19         I.K.M. Imtikhan \t\t\t400,000/="
+  },
+  {
+    "source": "Name Miss Register",
+    "date": "2022-08-19         Damayantha Nandana",
+    "name": "300,000/= REDEEM 2025.01.28",
+    "loan": 0.0,
+    "notes": "",
+    "raw": "2022.08.19         Damayantha Nandana \t\t\t300,000/= REDEEM 2025.01.28"
+  },
+  {
+    "source": "Name Miss Register",
+    "date": "2022-10-26",
+    "name": "Ranil Thushantha",
+    "loan": 500000.0,
+    "notes": "2023.3.07 new loan",
+    "raw": "2022.10.26\tRanil Thushantha \t\t\t500,000/= 2023.3.07 new loan"
+  },
+  {
+    "source": "Name Miss Register",
+    "date": "2022-11-22",
+    "name": "K.A.Chaminda",
+    "loan": 950000.0,
+    "notes": "",
+    "raw": "2022.11.22\tK.A.Chaminda\t\t\t\t950,000/="
+  },
+  {
+    "source": "Name Miss Register",
+    "date": "2022-11-22",
+    "name": "Renuka Nilmini",
+    "loan": 250000.0,
+    "notes": "",
+    "raw": "2022.11.22\tRenuka Nilmini\t\t\t               250,000/="
+  },
+  {
+    "source": "Name Miss Register",
+    "date": "2022-11-22",
+    "name": "K.D. Wimalarathne",
+    "loan": 450000.0,
+    "notes": "2025/2/15 New LOAN",
+    "raw": "2022.11.22\tK.D. Wimalarathne \t\t\t450,000/= 2025/2/15 New LOAN"
+  },
+  {
+    "source": "Name Miss Register",
+    "date": "2023-03-07",
+    "name": "Ranil Thushantha",
+    "loan": 800000.0,
+    "notes": "",
+    "raw": "2023.03.07\tRanil Thushantha \t\t\t800,000/="
+  },
+  {
+    "source": "Name Miss Register",
+    "date": "2023-03-23",
+    "name": "A.K.G.S. Gunasekara",
+    "loan": 1000000.0,
+    "notes": "",
+    "raw": "2023.03.23\tA.K.G.S. Gunasekara \t\t\t1,000,000/="
+  },
+  {
+    "source": "Name Miss Register",
+    "date": "2023-06-16",
+    "name": "A.K.G.S. Gunasekara",
+    "loan": 300000.0,
+    "notes": "",
+    "raw": "2023.06.16\tA.K.G.S. Gunasekara\t\t\t300,000/="
+  },
+  {
+    "source": "Name Miss Register",
+    "date": "2023-07/11",
+    "name": "Aruna Chandani",
+    "loan": 320000.0,
+    "notes": "",
+    "raw": "2023.07/11\tAruna Chandani \t\t\t320,000/="
+  },
+  {
+    "source": "Name Miss Register",
+    "date": "2023-07-11",
+    "name": "Tharanga Dewappriya",
+    "loan": 700000.0,
+    "notes": "",
+    "raw": "2023.07.11\tTharanga Dewappriya\t\t\t700,000/="
+  },
+  {
+    "source": "Name Miss Register",
+    "date": "2023-07-18",
+    "name": "Suwarnalatha Malkanthi",
+    "loan": 150000.0,
+    "notes": "Redeem 2023.12.13",
+    "raw": "2023.07.18\tSuwarnalatha Malkanthi\t\t150,000/= Redeem 2023.12.13"
+  },
+  {
+    "source": "Name Miss Register",
+    "date": "2023-08-03",
+    "name": "Pushpa Nandani",
+    "loan": 1690000.0,
+    "notes": "",
+    "raw": "2023.08.03\tPushpa Nandani \t\t\t1,690,000/="
+  },
+  {
+    "source": "Name Miss Register",
+    "date": "2023-08-05",
+    "name": "A.D Lilani Karuna Kumari",
+    "loan": 3205000.0,
+    "notes": "",
+    "raw": "2023.08.05\tA.D Lilani Karuna Kumari\t\t3,205,000/="
+  },
+  {
+    "source": "Name Miss Register",
+    "date": "2023-08-05",
+    "name": "B. Sarath Sadaruwan",
+    "loan": 1030000.0,
+    "notes": "New Loan 2025/1/21",
+    "raw": "2023.08.05\tB. Sarath Sadaruwan\t\t\t1,030,000/= New Loan 2025/1/21"
+  },
+  {
+    "source": "Name Miss Register",
+    "date": "2023-9-14",
+    "name": "Chaminda Alwis",
+    "loan": 150000.0,
+    "notes": "2024/12/17 New Loan (250000/=)",
+    "raw": "2023.9.14\tChaminda Alwis\t150000/=2024/12/17 New Loan (250000/=)"
+  },
+  {
+    "source": "Name Miss Register",
+    "date": "2023-09-27",
+    "name": "A.K.G.S.Gunasekara",
+    "loan": 300000.0,
+    "notes": "",
+    "raw": "2023.09.27\tA.K.G.S.Gunasekara\t300000/="
+  },
+  {
+    "source": "Name Miss Register",
+    "date": "2023-12-21",
+    "name": "Hemantha Wijesingha",
+    "loan": 675000.0,
+    "notes": "",
+    "raw": "2023.12.21\tHemantha Wijesingha\t675000/="
+  },
+  {
+    "source": "Name Miss Register",
+    "date": "2024-03-06",
+    "name": "Dedunu Dilhani",
+    "loan": 540000.0,
+    "notes": "",
+    "raw": "2024.03.06\tDedunu Dilhani\t540000/="
+  },
+  {
+    "source": "Name Miss Register",
+    "date": "2024-06-08",
+    "name": "Manoj Kumara",
+    "loan": 1205000.0,
+    "notes": "",
+    "raw": "2024.06.08\tManoj Kumara\t\t1205000/="
+  },
+  {
+    "source": "Name Miss Register",
+    "date": "2024-06-15",
+    "name": "Mahinda Kumara",
+    "loan": 500000.0,
+    "notes": "",
+    "raw": "2024.06.15\tMahinda Kumara\t500000/="
+  },
+  {
+    "source": "Name Miss Register",
+    "date": "2024-06-27",
+    "name": "Ananda Nandasiri",
+    "loan": 300000.0,
+    "notes": "",
+    "raw": "2024.06.27\tAnanda Nandasiri\t300000/="
+  },
+  {
+    "source": "Name Miss Register",
+    "date": "2024-08-07",
+    "name": "Nayana Chandani",
+    "loan": 1860000.0,
+    "notes": "",
+    "raw": "2024.08.07\tNayana Chandani\t1860000/="
+  },
+  {
+    "source": "Name Miss Register",
+    "date": "2024-11-29",
+    "name": "G.W. Yasarathne",
+    "loan": 600000.0,
+    "notes": "",
+    "raw": "2024.11.29\tG.W. Yasarathne\t600000/="
+  },
+  {
+    "source": "Name Miss Register",
+    "date": "2024-12-17",
+    "name": "Chaminda Alwis",
+    "loan": 250000.0,
+    "notes": "2025/01/06 Redeem",
+    "raw": "2024.12.17\tChaminda Alwis\t250000/=  2025/01/06 Redeem"
+  },
+  {
+    "source": "Name Miss Register",
+    "date": "2025-01-21",
+    "name": "Sarath Sadaruwan",
+    "loan": 1350000.0,
+    "notes": "",
+    "raw": "2025.01.21\tSarath Sadaruwan\t1350000/="
+  },
+  {
+    "source": "Name Miss Register",
+    "date": "2025-01-31",
+    "name": "Damayantha Nandana",
+    "loan": 450000.0,
+    "notes": "",
+    "raw": "2025.01.31\tDamayantha Nandana\t450000/="
+  },
+  {
+    "source": "Name Miss Register",
+    "date": "2025-02-15",
+    "name": "K.D.Wimalarathne",
+    "loan": 950000.0,
+    "notes": "",
+    "raw": "2025.02.15\tK.D.Wimalarathne\t950000/="
+  },
+  {
+    "source": "Name Miss Register",
+    "date": "2025-03-14",
+    "name": "Daminda PUSHPAKUMARA",
+    "loan": 500000.0,
+    "notes": "",
+    "raw": "2025.03.14\tDaminda PUSHPAKUMARA \t500000/="
+  },
+  {
+    "source": "Name Miss Register",
+    "date": "Atigala",
+    "name": "",
+    "loan": 0.0,
+    "notes": "",
+    "raw": "Atigala"
+  }
+]

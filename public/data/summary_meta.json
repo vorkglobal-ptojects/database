@@ -1,0 +1,23 @@
+{
+  "generatedAt": "2026-11-19T12:34:08.993372",
+  "counts": {
+    "ACTIVE": 2333,
+    "AUCTIONED": 1119,
+    "REDEEMED": 38062
+  },
+  "loans": {
+    "ACTIVE": 112532200.0,
+    "AUCTIONED": 24116865.0,
+    "REDEEMED": 1529122583.0
+  },
+  "grams": {
+    "ACTIVE": 7630.712999999996,
+    "AUCTIONED": 2303.492999999997,
+    "REDEEMED": 147860.28300000113
+  },
+  "docCounts": {
+    "sanjaya": 122,
+    "nameMiss": 67,
+    "cpBranches": 22
+  }
+}
